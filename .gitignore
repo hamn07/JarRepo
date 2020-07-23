@@ -12,3 +12,6 @@ buildNumber.properties
 .project
 .classpath
 .settings/
+bin/
+org.eclipse.jdt.core.prefs
+org.eclipse.m2e.core.prefs
